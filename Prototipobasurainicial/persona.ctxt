@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=persona
+comment0.text=\r\n\ Myworld\ class,\ es\ donde\ se\ despliega\ el\ mundo,\ posicionado\ los\ objetos,\ contadores\ y\ timer.\r\n\ @Augusto\ Sanic\ 20717\ \ \r\n\ @version\ 1.0\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moverpersonaje()
+comment3.params=
+comment3.target=void\ desaparecerobjeto()
+comment4.params=
+comment4.target=void\ tocarotroobjeto()
+comment5.params=
+comment5.target=void\ moverpersonajerapido()
+numComments=6
